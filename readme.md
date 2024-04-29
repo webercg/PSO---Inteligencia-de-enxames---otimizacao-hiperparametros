@@ -55,7 +55,8 @@ r1 e r2: geradas aleatoriamente a cada iteração para permitir que o enxame exp
 # Resultados e Conclusões
 
 ## Conclusões Gerais
- ![](images/eq_velocidade.png) 
+
+ ![](images/acuracia_iteracoes.png) 
  
 - A exploração do enxame foi capaz de encontrar os melhores hiperparâmetros para um modelo de SVM
 - Obtivemos 94% de acurácia em dados de treino e 97.5% em dados de teste. Sem overfit!
