@@ -531,3 +531,7 @@
 2024-04-28 22:32:01,696 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
 2024-04-28 22:40:20,576 - matplotlib.animation - WARNING - MovieWriter imagemagick unavailable; using Pillow instead.
 2024-04-28 22:40:20,577 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2024-04-29 00:15:44,881 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-04-29 00:15:44,882 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-04-29 00:15:45,409 - openml.config - INFO - Error opening file C:\Users\pichau\.openml\config: not readable
+2024-04-29 00:15:46,335 - openml.datasets.dataset - INFO - pickle write vowel
