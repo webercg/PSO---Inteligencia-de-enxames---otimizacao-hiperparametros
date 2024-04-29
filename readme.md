@@ -52,12 +52,6 @@ r1 e r2: geradas aleatoriamente a cada iteração para permitir que o enxame exp
 - Realizou-se uma simulação da posição inicial do enxame posicionadas aleatoriamente inicialmente até a posição onde 1 das partículas do enxame atingiu o máximo da acurácia.
 
 
-# Resultados
-
-<img align="center" img class="giphy-gif-img giphy-img-loaded" src="https://github.com/webercg/PSO---Inteligencia-de-enxames---otimizacao-hiperparametros/blob/main/images/animacao2.gif" width="800" height="600" alt="X" style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4AQMAAACSSKldAAAABlBMVEUhIiIWFhYoSqvJAAAAGElEQVQY02MAAv7///8PWxqIPwDZw5UGABtgwz2xhFKxAAAAAElFTkSuQmCC&quot;) 0px 0px;">
-
-- Como pode ser observada pela simulação, a particula 11 encontrou os melhores conjuntos de hiperparâmetros 
-
 # Resultados e Conclusões
 
 ## Conclusões Gerais
