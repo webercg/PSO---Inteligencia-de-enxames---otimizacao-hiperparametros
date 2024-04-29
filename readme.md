@@ -23,6 +23,8 @@ A cada iteração do enxame as particulas têm suas posições atualizadas de ac
 
 ## Função de velocidade de partículas
 A cada iteração do enxame as particulas têm suas velocidades recalculadas de acordo com a seguinte função retirada da documentação do PYSWARM
+
+
 ![](images/eq_velocidade.png) 
 
 A velocidade possui 3 componentes principais, sendo elas:
