@@ -39,10 +39,10 @@ A velocidade possui 3 componentes principais, sendo elas:
 - Componente social que mensura o quanto a particula tende a movimentar-se em direção á melhor conformação do enxame como um todo
 
 Os seguintes parâmetros devem ser escolhidos previamente para inicializar o algorítmo:  
-w:  parâmetro que pondera o componente de inércia  
-c1: parâmetro que pondera o componente cognitivo  
-c2: parâmetro que pondera o componente social  
-r1 e r2: geradas aleatoriamente a cada iteração para permitir que o enxame explore mais o espaço e evitar que fique estacionado em algum mínimo local.  
+- **w:**  parâmetro que pondera o componente de inércia  
+- **c1**: parâmetro que pondera o componente cognitivo  
+- **c2**: parâmetro que pondera o componente social  
+- **r1** e **r2**: geradas aleatoriamente a cada iteração para permitir que o enxame explore mais o espaço e evitar que fique estacionado em algum mínimo local.  
 
 ## Função Fitness (Objetivo)
 - Acurácia média de 5 folds no treinamento de um modelo de SVM
