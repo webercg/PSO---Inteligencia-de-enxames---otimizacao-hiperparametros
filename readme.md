@@ -1,4 +1,4 @@
-# Implementação de algoritmos de otimização por enxame de partículas (PSO) para tunning de modelos de machine learning.
+# Implementação de PSO para tunning de modelos de machine learning.
 Essa é uma implementação cujo o objetivo é trazer o PSO para o contexto do aprendizado de máquina, propondo seu uso como uma abordagem alternativa para o tunning de hiperparâmetros. Foi realizado 80 simulações de movimentação de 15 partículas os resultados estão descritos abaixo.
 
 # Definições
