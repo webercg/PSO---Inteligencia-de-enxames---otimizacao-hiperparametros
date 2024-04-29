@@ -19,6 +19,8 @@ Essa é uma implementação cujo o objetivo é trazer o PSO para o contexto do a
   
 ## Função de posição de particulas
 A cada iteração do enxame as particulas têm suas posições atualizadas de acordo com a seguinte função retirada da documentação do PYSWARM
+
+
 ![](images/eq_posicao.png) 
 
 ## Função de velocidade de partículas
