@@ -475,3 +475,59 @@
 2024-04-28 21:50:52,178 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
 2024-04-28 21:54:15,645 - matplotlib.animation - WARNING - MovieWriter imagemagick unavailable; using Pillow instead.
 2024-04-28 21:54:15,645 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2024-04-28 21:57:42,452 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-04-28 21:57:42,453 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2024-04-28 21:57:43,079 - openml.config - INFO - Error opening file C:\Users\pichau\.openml\config: not readable
+2024-04-28 21:57:48,375 - openml.datasets.dataset - INFO - pickle write spambase
+2024-04-28 21:58:03,180 - pyswarms.single.global_best - INFO - Optimize for 80 iters with {'w': 0.7, 'c1': 0.4, 'c2': 0.4}
+2024-04-28 22:00:20,693 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.882, best pos: [8.73585782e+01 2.11284238e-02]
+2024-04-28 22:02:23,530 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/55
+2024-04-28 22:02:24,720 - root - INFO - 1.1882670s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/55
+2024-04-28 22:02:24,723 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/55
+2024-04-28 22:02:25,667 - root - INFO - 0.9432120s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/55
+2024-04-28 22:02:25,669 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/55
+2024-04-28 22:02:26,631 - root - INFO - 0.9612164s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/55
+2024-04-28 22:02:26,634 - root - INFO - Starting [get] request for the URL https://api.openml.org/data/v1/download/55/hepatitis.arff
+2024-04-28 22:02:27,812 - root - INFO - 1.1772649s taken for [get] request for the URL https://api.openml.org/data/v1/download/55/hepatitis.arff
+2024-04-28 22:02:28,509 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0055/dataset_55.pq -> https://openml1.win.tue.nl/datasets/0000/0055/dataset_55.pq
+2024-04-28 22:02:30,069 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0055/dataset_55.pq -> https://openml1.win.tue.nl/datasets/0000/0055/dataset_55.pq
+2024-04-28 22:02:30,587 - openml.datasets.dataset - INFO - pickle write hepatitis
+2024-04-28 22:02:35,464 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/56
+2024-04-28 22:02:36,650 - root - INFO - 1.1862667s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/56
+2024-04-28 22:02:36,653 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/56
+2024-04-28 22:02:37,590 - root - INFO - 0.9362106s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/56
+2024-04-28 22:02:37,593 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/56
+2024-04-28 22:02:38,559 - root - INFO - 0.9642172s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/56
+2024-04-28 22:02:38,562 - root - INFO - Starting [get] request for the URL https://api.openml.org/data/v1/download/56/vote.arff
+2024-04-28 22:02:39,756 - root - INFO - 1.1942685s taken for [get] request for the URL https://api.openml.org/data/v1/download/56/vote.arff
+2024-04-28 22:02:40,462 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0056/dataset_56.pq -> https://openml1.win.tue.nl/datasets/0000/0056/dataset_56.pq
+2024-04-28 22:02:41,937 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0056/dataset_56.pq -> https://openml1.win.tue.nl/datasets/0000/0056/dataset_56.pq
+2024-04-28 22:02:42,571 - openml.datasets.dataset - INFO - pickle write vote
+2024-04-28 22:02:46,040 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/57
+2024-04-28 22:02:47,257 - root - INFO - 1.2162733s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/57
+2024-04-28 22:02:47,260 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/57
+2024-04-28 22:02:48,267 - root - INFO - 1.0062268s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/57
+2024-04-28 22:02:48,270 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/57
+2024-04-28 22:02:49,238 - root - INFO - 0.9682183s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/57
+2024-04-28 22:02:49,241 - root - INFO - Starting [get] request for the URL https://api.openml.org/data/v1/download/57/hypothyroid.arff
+2024-04-28 22:02:50,868 - root - INFO - 1.6263654s taken for [get] request for the URL https://api.openml.org/data/v1/download/57/hypothyroid.arff
+2024-04-28 22:02:51,388 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0057/dataset_57.pq -> https://openml1.win.tue.nl/datasets/0000/0057/dataset_57.pq
+2024-04-28 22:02:52,917 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0057/dataset_57.pq -> https://openml1.win.tue.nl/datasets/0000/0057/dataset_57.pq
+2024-04-28 22:02:53,933 - openml.datasets.dataset - INFO - pickle write hypothyroid
+2024-04-28 22:02:58,896 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/58
+2024-04-28 22:03:00,133 - root - INFO - 1.2362778s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/58
+2024-04-28 22:03:00,136 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/features/58
+2024-04-28 22:03:01,133 - root - INFO - 0.9972246s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/features/58
+2024-04-28 22:03:01,136 - root - INFO - Starting [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/58
+2024-04-28 22:03:02,110 - root - INFO - 0.9722190s taken for [get] request for the URL https://www.openml.org/api/v1/xml/data/qualities/58
+2024-04-28 22:03:02,113 - root - INFO - Starting [get] request for the URL https://api.openml.org/data/v1/download/58/vowel.arff
+2024-04-28 22:03:03,622 - root - INFO - 1.5093400s taken for [get] request for the URL https://api.openml.org/data/v1/download/58/vowel.arff
+2024-04-28 22:03:04,164 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0058/dataset_58.pq -> https://openml1.win.tue.nl/datasets/0000/0058/dataset_58.pq
+2024-04-28 22:03:05,960 - urllib3.poolmanager - INFO - Redirecting http://openml1.win.tue.nl/datasets/0000/0058/dataset_58.pq -> https://openml1.win.tue.nl/datasets/0000/0058/dataset_58.pq
+2024-04-28 22:03:06,831 - openml.datasets.dataset - INFO - pickle write vowel
+2024-04-28 22:03:24,204 - pyswarms.single.global_best - INFO - Optimize for 80 iters with {'w': 0.7, 'c1': 0.4, 'c2': 0.4}
+2024-04-28 22:06:11,717 - pyswarms.single.global_best - INFO - Optimization finished | best cost: -0.9399999999999998, best pos: [66.29899146  0.07833738]
+2024-04-28 22:32:01,695 - matplotlib.animation - WARNING - MovieWriter imagemagick unavailable; using Pillow instead.
+2024-04-28 22:32:01,696 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
+2024-04-28 22:40:20,576 - matplotlib.animation - WARNING - MovieWriter imagemagick unavailable; using Pillow instead.
+2024-04-28 22:40:20,577 - matplotlib.animation - INFO - Animation.save using <class 'matplotlib.animation.PillowWriter'>
