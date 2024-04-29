@@ -55,6 +55,8 @@ r1 e r2: geradas aleatoriamente a cada iteração para permitir que o enxame exp
 # Resultados e Conclusões
 
 ## Conclusões Gerais
+ ![](images/eq_velocidade.png) 
+ 
 - A exploração do enxame foi capaz de encontrar os melhores hiperparâmetros para um modelo de SVM
 - Obtivemos 94% de acurácia em dados de treino e 97.5% em dados de teste. Sem overfit!
 - Ja na 9ª iteração o PSO foi capaz de encontrar hiperparametros com 91.6% de acurácia!
@@ -63,7 +65,7 @@ r1 e r2: geradas aleatoriamente a cada iteração para permitir que o enxame exp
 
 ## Simulação enxame
 
-- Por conta de uma limitação da biblioteca plotamos apenas duas iterações a posição inicial do enxame e a posição na iteração 46ª onde a particula 11 encontrou o melhor conjunto de hiperparâmetro.
+- Por conta de uma limitação das animações da biblioteca matplotlib plotamos apenas duas iterações a posição inicial do enxame á posição na iteração 46ª onde a particula 11 encontrou o melhor conjunto de hiperparâmetro, desconsiderando toda trajetória das iterações entre 2 e 45.
 
 <img align="center" img class="giphy-gif-img giphy-img-loaded" src="https://github.com/webercg/PSO---Inteligencia-de-enxames---otimizacao-hiperparametros/blob/main/images/animacao2.gif" width="800" height="600" alt="X" style="background: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4AQMAAACSSKldAAAABlBMVEUhIiIWFhYoSqvJAAAAGElEQVQY02MAAv7///8PWxqIPwDZw5UGABtgwz2xhFKxAAAAAElFTkSuQmCC&quot;) 0px 0px;">
 
