@@ -23,11 +23,15 @@ A cada iteração do enxame as particulas têm suas posições atualizadas de ac
 
 ![](images/eq_posicao.png) 
 
+A posição da iteração atual é igual a posição da iteração anterior mais o deslocamento provindo da velocidade da iteração atual
+
 ## Função de velocidade de partículas
 A cada iteração do enxame as particulas têm suas velocidades recalculadas de acordo com a seguinte função retirada da documentação do PYSWARM
 
 
 ![](images/eq_velocidade.png) 
+
+A velocidade da iteração atual é igual ao somatório das velocidades das iterações anteriores ponderadas pelos fatores de inercia, cognitivo e social.
 
 A velocidade possui 3 componentes principais, sendo elas:
 - Componente de inércia que é o quanto a velocidade da particula na iteração tende a manter-se igual á iteração anterior. 
